@@ -1,4 +1,4 @@
-require "book_buddy/version"
+require_relative "../config/environment"
 
 module BookBuddy
   # Your code goes here...
